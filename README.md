@@ -7,7 +7,8 @@
 - [Contact](#contact)
 
  ## Description:
-    Simple ReadMe generator layout.
+ 
+ Fitness Tracker lets the user to create and track daily workouts. The application tracks name, type of workout, weight, sets, reps, and duration of excercise. 
   
  ![picture](FitnessTracker.PNG)
 
